@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jurabek99899&label=Profile%20views&color=0e75b6&style=flat" alt="jurabek99899" /> </p>
-<img align="right" width="200px" alt="crazy coding"  src="https://github.com/Jurabek99899/Jurabek99899/blob/main/1_ubCR6WyFNthQVQ9D4AIO9g.gif" alt="">
+<img align="right" width="500px" alt="crazy coding"  src="https://github.com/Jurabek99899/Jurabek99899/blob/main/1_ubCR6WyFNthQVQ9D4AIO9g.gif" alt="">
 
 - 🔭 I’m currently working on [Intra-mart](https://www.privete-project.com.jp)
 
