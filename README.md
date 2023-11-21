@@ -1,7 +1,9 @@
+![logo](https://github.com/Jurabek99899/Jurabek99899/blob/main/software-engineer.png)
 <h1 align="center">Hi 👋, I'm Jurabek Toshbekov</h1>
 <h3 align="center">A passionate system engineer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jurabek99899&label=Profile%20views&color=0e75b6&style=flat" alt="jurabek99899" /> </p>
+<img align="right" alt="crazy coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F0xhriday.medium.com%2Fwhat-is-it-like-being-a-programmer-6851367138a6&psig=AOvVaw3p2UKRs-9jwKVhn72hNeC1&ust=1700628647871000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCzvMWl1IIDFQAAAAAdAAAAABA4" alt="">
 
 - 🔭 I’m currently working on [Intra-mart](https://www.privete-project.com.jp)
 
@@ -33,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jurabek99899&show_icons=true&locale=en&layout=compact" alt="jurabek99899" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jurabek99899&show_icons=true&locale=en" alt="jurabek99899" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurabek99899&" alt="jurabek99899" /></p>
