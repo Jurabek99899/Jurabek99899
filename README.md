@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **C#**
 
+- 🌱 My personal project [Yapon.uz](https://download.yapon.uz)
+
 - 👯 I’m looking to collaborate on [SAP](https://www.privete-project.com.jp)
 
 - 🤝 I’m looking for help with [SOS for Uzbeks](https://sos.com.uz)
